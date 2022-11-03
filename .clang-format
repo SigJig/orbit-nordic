@@ -1,0 +1,14 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+AlwaysBreakAfterReturnType: AllDefinitions
+PointerAlignment: Left
+BreakBeforeBraces: Linux
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+AlignAfterOpenBracket: AlwaysBreak
+BinPackArguments: false
+BinPackParameters: false
+AlignOperands: Align
+PenaltyBreakAssignment: 6
+PenaltyBreakAssignment: 20
+PenaltyBreakBeforeFirstCallParameter: 0
